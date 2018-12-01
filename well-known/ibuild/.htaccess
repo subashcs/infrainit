@@ -1,0 +1,2 @@
+AuthName "ibuild"
+AuthUserFile "/home/infraini/.htpasswds/public_html/ibuild/passwd"

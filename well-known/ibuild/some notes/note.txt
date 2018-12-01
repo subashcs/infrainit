@@ -1,0 +1,3 @@
+use a index file outside my ibuild file
+it will be advantageous in showing popups on start
+i.e to identify the start page

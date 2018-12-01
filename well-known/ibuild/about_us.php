@@ -1,0 +1,1 @@
+<?php include "blocks/main/articleforindex.html";?>

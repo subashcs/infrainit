@@ -1,0 +1,5 @@
+User agent: *
+Disallow: /ibuild/users
+Disallow: /ibuild/system
+Disallow:/ibuild/css
+Disallow:
