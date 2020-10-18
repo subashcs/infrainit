@@ -6,4 +6,4 @@ Construction related Ecommerce site Integrated with Architect Solution Consultat
 
 ## View Architectures
 
-![Architecture](/home.PNG?raw=true "View House Architectures ")
+![Architecture](/housearchitectures.PNG?raw=true "View House Architectures ")
