@@ -1,5 +1,5 @@
 # infrainit
 Construction related Ecommerce site Integrated with Architect Solution Consultation and Exploration
 
-![HomePage](/home.png?raw=true "Home Page ")
+![HomePage](/home.PNG?raw=true "Home Page ")
 
